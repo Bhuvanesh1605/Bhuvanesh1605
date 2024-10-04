@@ -17,9 +17,18 @@ Currently focusing on enhancing my data visualization skills, creating dashboard
 - **Blinkit Dashboard**: Created a Power BI dashboard showcasing product data, highlighting my skills in data modeling, calculations, and visualization.
 
 ### 📫 Get in Touch:
-[![Email](https://img.shields.io/badge/Email-bhuvaneshh2004@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshh2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvanesh%20A.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-a-47b02a256/)
-[![Instagram](https://img.shields.io/badge/Instagram-bhuvanesh1605-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhuvanesh1605/profilecard/?igsh=NjN0N2s0MDRsdXdr)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshh2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-a-47b02a256/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhuvanesh1605/profilecard/?igsh=NjN0N2s0MDRsdXdr)
+
+### 📊 GitHub Activity:
+![Bhuvanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvanesh&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanesh&layout=compact&theme=radical)
+
+---
 
 ### 💬 Let's Connect:
 If you're looking for collaboration, freelance work, or just want to chat about data analysis and AI, feel free to reach out!
@@ -27,5 +36,6 @@ If you're looking for collaboration, freelance work, or just want to chat about 
 ---
 
 🌟 *"Turning data into decisions, one dashboard at a time."* 🌟
+
 
 
